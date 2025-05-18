@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marbou-salwa
-- 👀 I’m interested in arduino
-- 🌱 I’m currently learning arduino
+- 👀 I’m interested in software and hardware
+- 🌱 I’m currently learning ROS 
 - 📫 How to reach me marbou.salwa@gmail.com
 
 <!---
